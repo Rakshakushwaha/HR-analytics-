@@ -36,4 +36,4 @@ Business Value:
 • Analyze salary and experience impact on employee turnover
 • Support strategic HR planning and employee retention initiatives
 6. Screenshot/ demos
-Example: 
+Example: https://github.com/Rakshakushwaha/HR-analytics-/blob/main/Screenshot%202026-06-23%20152132.png
